@@ -1,7 +1,7 @@
 # MoneyMate
 
 Overview:
-Our chatbot, called "MoneyMate", is a personal finance assistant aimed at helping individuals manage their finances effectively. The chatbot is designed to be accessible to anyone who has basic knowledge of personal finance, regardless of age or background.
+My chatbot, called "MoneyMate", is a personal finance assistant aimed at helping individuals manage their finances effectively. The chatbot is designed to be accessible to anyone who has basic knowledge of personal finance, regardless of age or background.
 
 Functionality:
 MoneyMate will be capable of performing the following functions:
@@ -13,6 +13,6 @@ MoneyMate will be capable of performing the following functions:
     Provide alerts and reminders for upcoming bills and payments.
 
 Technical Requirements:
-To build MoneyMate, we plan to use Python programming language, along with Flask and Dialogflow libraries. We will also integrate with third-party APIs, such as Yodlee and Plaid, for accessing user's financial data. We will deploy the chatbot on a cloud-based platform such as Google Cloud.
+To build MoneyMate, I plan to use Python programming language, along with Flask and Dialogflow libraries. I will also integrate with third-party APIs, such as Yodlee and Plaid, for accessing user's financial data. I will deploy the chatbot on a cloud-based platform such as Google Cloud.
 
 In conclusion, MoneyMate will be a valuable tool for anyone seeking to improve their financial well-being. The chatbot's ease of use and personalized advice will empower users to take control of their finances and achieve their financial goals.
